@@ -6,7 +6,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 @AutoConfigureMockMvc
-public class TestingWebApplicationTest {
+public class TestingApplicationTest {
 
 	@Test
 	public void shouldReturnDefaultMessage() throws Exception {
